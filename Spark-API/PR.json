@@ -1,0 +1,14 @@
+//URL: HostName/PR/[PR id]
+//Result: A PR Object
+
+{
+	PR:{
+		_ref:"HostName/PR/[PR id]"
+		id: "LSIP20003423129",
+		title: "Encryption support for CLI"
+		children:{
+			_ref:"HostName/PR/[PR id]/Children",
+			_type:"Strategy"
+		}
+	}
+}

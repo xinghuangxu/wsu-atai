@@ -1,0 +1,38 @@
+//URL: HostName/BoxCar/[boxcar id]/Children
+//Result: A list of PR Objects
+
+{
+	QueryResult:{
+		Errors:[],
+		Warnings:[],
+		TotalResultCount: 4,
+		StartIndex:1,
+		PageSize:20,
+		Results:[
+			{
+				_ref:"HostName/PR/[PR id]",
+				_type:"PR",
+				id: "LSIP20003423129",
+				title: "Encryption support for CLI"
+			},
+			{
+				_ref:"HostName/PR/[PR id]",
+				_type:"PR",
+				id: "LSIP20003423129",
+				title: "ARVM support for SAM"
+			},
+			{
+				_ref:"HostName/Enh_req/[Enh_req id]",
+				_type: "Enh_req",
+				id: "LSIP20003423439",
+				title: "add additional controls to ARVM"
+			},
+			{
+				_ref:"HostName/PR/[PR id]",
+				_type: "PR",
+				id: "LSIP20003423129",
+				title: "CII for SAM"
+			},
+		]
+	}
+}

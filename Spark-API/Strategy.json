@@ -1,0 +1,18 @@
+//URL: HostName/Strategy/[Strategy id]
+//Result: A Strategy Object
+
+{
+	Strategy:{
+		_ref:"HostName/Strategy/[Strategy id]"
+		"type": "G",
+        "name": "508C",
+         "tpid": "T:234234212:TDGSDFD:243237",
+         "qual": "Usability",
+         "impact": "MSW, CLI",
+         "approach": "Stress",
+         "ownership": "Shared",
+         "shared": "IOP",
+         "scope": "3",
+         "risk": "1.2"
+	}
+}

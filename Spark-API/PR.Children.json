@@ -1,0 +1,32 @@
+//URL: HostName/PR/[PR id]/Children
+//Result: A list of Strategy Objects
+
+{
+	QueryResult:{
+		Errors:[],
+		Warnings:[],
+		TotalResultCount: 3,
+		StartIndex:1,
+		PageSize:20,
+		Results:[
+			{
+				_ref:"HostName/Strategy/[Strategy id]",
+				_type:"Strategy",
+				id: "T:234234212:TDGSDFD:243234",
+				title: "CLI testing for ARVM"
+			},
+			{
+				_ref:"HostName/Strategy/[Strategy id]",
+				_type:"Strategy",
+				id: "T:234234212:TDGSDFD:243234",
+				title: "General UI supportability"
+			},
+			{
+				_ref:"HostName/Strategy/[Strategy id]",
+				_type: "Strategy",
+				id: "T:234234212:TDGSDFD:243234",
+				title: "508C"
+			},
+		]
+	}
+}
